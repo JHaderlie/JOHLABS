@@ -1,0 +1,4 @@
+@namespaceAccessible
+global class LogUtil {
+	
+}
