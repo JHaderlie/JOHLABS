@@ -1,0 +1,16 @@
+###BIZ TOOLS To Do:
+- [ ] PDF Generator / integrations(s)
+  - [ ] easypdf server integration
+  - [ ] pdfbroker integration
+  - [ ] pdfgenerator integration
+- [ ] eSign integration(s)
+  - [ ] 
+- [ ] email tracking and confirmation tools / integration(s)
+  - [ ] sendgrid
+  - [ ] mailchimp
+- [ ] Social Media (schedule posts/historical posts)
+  - [ ] twitter
+  - [ ] facebook
+  - [ ] instagram
+  - [ ] linkedin
+- [ ] Home page announcement board / feed

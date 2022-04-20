@@ -1,0 +1,11 @@
+###FUN TOOLS To Do:
+- [ ] Giphy integration
+- [ ] jokes_one integration
+- [ ] Fittnes and Health Integration
+  - [ ] Garmin Health integration
+  - [ ] fitbit integration
+  - [ ] my fitness pal integration
+  - [ ] google fit integration
+  - [ ] apple fitness+ integration
+- [ ] Event Driven Logo change (override Salesforce logo for holiday's / events)
+- [ ] spotify?

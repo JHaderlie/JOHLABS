@@ -1,0 +1,14 @@
+##CORE TOOLS Task List:
+- [ ] Logging Utility
+  - [ ] Invocable method for storing handeled flow errors
+  - [ ] Global util
+  - [ ] Trace Level Criteria ability
+  - [ ] On Off toggle ability
+  - [ ] Storage management (scheduled deletion)
+- [ ] JOH Labs Main Menu structure
+  - [ ] Use Custom Metadata Types to build dynamic structure (other unrelated packages can create menu pages/items)
+- [ ] Scheduled job managment
+- [ ] http access util
+  - [ ] error handeling
+  - [ ] log utility usage
+  - [ ] invocable method
