@@ -4,7 +4,6 @@
   - [ ] pdfbroker integration
   - [ ] pdfgenerator integration
 - [ ] eSign integration(s)
-  - [ ] 
 - [ ] email tracking and confirmation tools / integration(s)
   - [ ] sendgrid
   - [ ] mailchimp
