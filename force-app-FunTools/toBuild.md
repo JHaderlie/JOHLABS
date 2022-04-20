@@ -1,4 +1,4 @@
-###FUN TOOLS To Do:
+### FUN TOOLS To Do:
 - [ ] Giphy integration
 - [ ] jokes_one integration
 - [ ] Fittnes and Health Integration
